@@ -6,8 +6,6 @@ Assistant Module: **qslcl.bin (v0.6.3)**
 
 Universal Controller: **qslcl.py (v1.2.5)**
 
-> **Legally Protected Research** - This project operates under established legal frameworks for security research, right to repair, and academic freedom. [Learn more](./PROTECTION_MATRIX.md)
-
 ---
 
 # Overview
@@ -246,15 +244,3 @@ python qslcl.py patch 0x100000 hex "AABBCC" --loader=qslcl.bin --verbose
 * **Advanced Patching** - Professional binary modification with read-back verification
 * **Dynamic Bootstrapping** - Universal cross-architecture initialization
 * **Ethical Empowerment** - Capability with responsibility and safety controls
-
-**YouTube**: [https://www.youtube.com/@EntropyVector](https://www.youtube.com/@EntropyVector)
-
----
-
-## Legal & Support
-- [LEGAL_NOTICE.md](./LEGAL_NOTICE.md) - Legal positioning and protections
-- [SUPPORT_REQUEST.md](./SUPPORT_REQUEST.md) - Communication history and good-faith efforts
-
-## Legal & Transparency
-
-This project maintains transparent legal documentation and has established official communication with GitHub Support (Ticket: 3932406).
